@@ -1,7 +1,8 @@
-/* Author: Rohith Kumar Punithavel
+'''
+   Author: Rohith Kumar Punithavel
    Email: rohithkumar@asu.edu
    Problem Statement: https://leetcode.com/problems/two-sum/
-
+'''
 
 
 class Solution:
